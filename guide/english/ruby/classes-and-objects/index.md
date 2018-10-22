@@ -82,7 +82,7 @@ class Car
 end
 ```
 
-So now we can change state and read the state of the object.
+So now we can change state and read the state of the object. This is very cool!
 
 ```Ruby
 irb(main):023:0> c = Car.new('Mazda', 'Mazda3', 'White')
